@@ -1,9 +1,9 @@
 //IT21272936 - SILVA S.K.D. T 
 //IT1050_MLB_WE_01.01_06_Blood_Donation_System
-//Class of employee
+// Class of employee
 class Employee
 {
-	protected:// Inheritence relationship
+	protected://Inheritence relationship
 	
 		int employeeId[20];
 		char employeeName[50];

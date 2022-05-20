@@ -1,6 +1,6 @@
 //IT21272936 - SILVA S.K.D. T 
 //IT1050_MLB_WE_01.01_06_Blood_Donation_System
-//Class of employee account
+// Class of employee account
 #define SIZEP 10
 #define SIZED 10
 #define SIZEBC 10
@@ -14,7 +14,7 @@ class EmployeeAccount
 		char employeeUsername[20];
 		char employeePassword[20];
 		
-		PatientAccount* patients[SIZEP]; //Bi-Directional Association relationship
+		PatientAccount* patients[SIZEP];//Bi-Directional Association relationship
 		DonorAccount* donors[SIZED]; //Bi-Directional Association relationship
 		bloodCamp* camps[SIZEBC]; //Bi-Directional Association relationship
 	
