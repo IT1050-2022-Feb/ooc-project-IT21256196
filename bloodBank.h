@@ -1,6 +1,6 @@
 //IT21304842 - DISSANAYAKE A.S.H 
 //IT1050_MLB_WE_01.01_06_Blood_Donation_System
-// Class of blood bank
+//Class of blood bank
 class bloodBank
 {
 	private:
@@ -18,7 +18,7 @@ class bloodBank
 		char stockBloodtype[3];
 		int stockNumber;
 		
-		PatientAccount* pAccount[]; //composition relationship
+		PatientAccount* pAccount[];//composition relationship
 		bloodCamp* bCamp[]; //composition relationship
 	
 	public:
