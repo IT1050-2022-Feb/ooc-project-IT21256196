@@ -1,3 +1,5 @@
+//IT21338120 - WIJESINGHE S.A.A. K
+//IT1050_MLB_WE_01.01_06_Blood_Donation_System
 //Class of patient account
 #define SIZE 2
 #define SIZEF 3
@@ -32,4 +34,3 @@ class PatientAccount
 		
 		~PatientAccount();//destructor
 };
-

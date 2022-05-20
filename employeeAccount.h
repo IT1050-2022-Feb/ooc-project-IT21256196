@@ -1,3 +1,5 @@
+//IT21272936 - SILVA S.K.D. T 
+//IT1050_MLB_WE_01.01_06_Blood_Donation_System
 //Class of employee account
 #define SIZEP 10
 #define SIZED 10
@@ -28,4 +30,3 @@ class EmployeeAccount
 		~EmployeeAccount();//destructor
 	
 };
-

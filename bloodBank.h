@@ -1,3 +1,5 @@
+//IT21304842 - DISSANAYAKE A.S.H 
+//IT1050_MLB_WE_01.01_06_Blood_Donation_System
 // Class of blood bank
 class bloodBank
 {
@@ -36,4 +38,3 @@ class bloodBank
 		~bloodBank();//destructor
 	
 };
-

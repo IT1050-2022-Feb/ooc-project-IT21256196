@@ -1,3 +1,5 @@
+//IT21256196 - WIJERATHNA N.T
+//IT1050_MLB_WE_01.01_06_Blood_Donation_System
 // Implementation of Class donor account
 #define SIZE 2
 class DonorAccount 
