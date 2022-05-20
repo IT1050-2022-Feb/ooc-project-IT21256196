@@ -1,4 +1,6 @@
-// Implementation of Class blood camp
+//IT21292040 - M.W.K.L.Sasanka
+//IT1050_MLB_WE_01.01_06_Blood_Donation_System
+//Class of blood camp
 #define SIZE 5
 class bloodCamp
 {
@@ -25,4 +27,3 @@ class bloodCamp
 		~bloodCamp();//destructor
 	
 };
-
